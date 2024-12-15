@@ -1,0 +1,1 @@
+{"inventory":[{"id":"I001","name":"123123","pricePerKg":123.0,"availableQuantity":23.0,"category":"root","expiryDate":"2021-08-20T00:00:00.000"}],"orders":[{"orderID":"O001","items":{"I001":10.0},"totalAmount":1230.0,"timestamp":"2024-12-06T13:47:38.815209"},{"orderID":"O002","items":{"I001":100.0},"totalAmount":12300.0,"timestamp":"2024-12-06T15:52:45.168296"}]}
